@@ -1,0 +1,45 @@
+{
+  "private": true,
+  "name": "@softwareventures/semantic-release-config",
+  "version": "0.0.0-development",
+  "description": "Standard semantic-release configuration for Software Ventures Limited",
+  "keywords": [
+    "semantic-release"
+  ],
+  "author": "Daniel Cassidy <mail@danielcassidy.me.uk>",
+  "homepage": "https://github.com/softwareventures/semantic-release-config",
+  "bugs": "https://github.com/softwareventures/semantic-release-config",
+  "repository": "github:softwareventures/semantic-release-config",
+  "license": "ISC",
+  "scripts": {
+    "prepare": "tsc",
+    "semantic-release": "semantic-release",
+    "test": "tslint --project . && ava"
+  },
+  "dependencies": {
+    "tslib": "1.11.1"
+  },
+  "devDependencies": {
+    "@softwareventures/tsconfig": "2.2.0",
+    "@softwareventures/tslint-rules": "0.8.1",
+    "ava": "3.8.1",
+    "cz-conventional-changelog": "3.2.0",
+    "semantic-release": "17.0.7",
+    "ts-node": "8.10.1",
+    "tslint": "6.1.2",
+    "typescript": "3.8.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "ava": {
+    "extensions": [
+      "ts"
+    ],
+    "require": [
+      "ts-node/register"
+    ]
+  }
+}
