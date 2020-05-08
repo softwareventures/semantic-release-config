@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "@softwareventures/semantic-release-config",
   "version": "0.0.0-development",
   "description": "Standard semantic-release configuration for Software Ventures Limited",
@@ -42,5 +41,8 @@
     "require": [
       "ts-node/register"
     ]
+  },
+  "release": {
+    "extends": "."
   }
 }
