@@ -23,6 +23,6 @@ Add to your [semantic-release configuration](https://semantic-release.gitbook.io
 
 ```json
 {
-    "prettier": "@softwareventures/semantic-release-config"
+    "extends": "@softwareventures/semantic-release-config"
 }
 ```
