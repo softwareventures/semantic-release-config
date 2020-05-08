@@ -21,7 +21,7 @@
   "devDependencies": {
     "@softwareventures/tsconfig": "2.2.0",
     "@softwareventures/tslint-rules": "0.8.1",
-    "@types/semantic-release": "15.13.1",
+    "@types/semantic-release": "17.0.0",
     "ava": "3.8.2",
     "cz-conventional-changelog": "3.2.0",
     "semantic-release": "17.0.7",
