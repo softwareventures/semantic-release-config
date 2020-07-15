@@ -8,11 +8,11 @@ const options: Options = {
         "next-major",
         {
             name: "beta",
-            prerelease: true as any // TODO: Fix when types are updated
+            prerelease: true
         },
         {
             name: "alpha",
-            prerelease: true as any // TODO: Fix when types are updated
+            prerelease: true
         }
     ],
     releaseRules: [
