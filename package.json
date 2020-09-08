@@ -19,7 +19,7 @@
     "tslib": "2.0.1"
   },
   "devDependencies": {
-    "@softwareventures/tsconfig": "2.3.1",
+    "@softwareventures/tsconfig": "3.0.0",
     "@softwareventures/tslint-rules": "0.9.1",
     "@types/semantic-release": "17.1.0",
     "ava": "3.12.1",
