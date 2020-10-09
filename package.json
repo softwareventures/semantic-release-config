@@ -16,7 +16,7 @@
     "test": "tslint --project . && ava"
   },
   "dependencies": {
-    "tslib": "2.0.2"
+    "tslib": "2.0.3"
   },
   "devDependencies": {
     "@softwareventures/tsconfig": "2.3.2",
