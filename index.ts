@@ -2,6 +2,11 @@ import {Options} from "semantic-release";
 
 const options: Options = {
     branches: [
+        {
+            name: "0.x",
+            channel: "0.x",
+            range: "0.x"
+        },
         "+([0-9])?(.{+([0-9]),x}).x",
         "{main,master}",
         "next",
