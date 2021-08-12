@@ -19,7 +19,7 @@
     "node": "^12 || ^14 || >=16"
   },
   "dependencies": {
-    "tslib": "2.3.0"
+    "tslib": "2.3.1"
   },
   "devDependencies": {
     "@softwareventures/tsconfig": "5.1.0",
