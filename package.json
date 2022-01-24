@@ -25,7 +25,7 @@
     "@softwareventures/tsconfig": "5.1.0",
     "@softwareventures/tslint-rules": "1.0.0",
     "@types/semantic-release": "17.2.3",
-    "ava": "3.15.0",
+    "ava": "4.0.1",
     "cz-conventional-changelog": "3.3.0",
     "semantic-release": "17.4.7",
     "ts-node": "10.4.0",
