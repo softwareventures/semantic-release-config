@@ -11,6 +11,7 @@
   "repository": "github:softwareventures/semantic-release-config",
   "license": "ISC",
   "scripts": {
+    "lint": "tsc --noEmit && tslint --project .",
     "prepare": "tsc",
     "semantic-release": "semantic-release",
     "test": "tslint --project . && ava"
