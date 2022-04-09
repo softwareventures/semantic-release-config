@@ -15,7 +15,7 @@
     "lint": "tsc --noEmit && tslint --project .",
     "prepare": "tsc",
     "semantic-release": "semantic-release",
-    "test": "tslint --project . && ava"
+    "test": "ava"
   },
   "engines": {
     "node": "^12 || ^14 || >=16"
