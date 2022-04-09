@@ -3,6 +3,8 @@
 Standard [semantic release](https://semantic-release.gitbook.io/semantic-release/)
 configuration for [Software Ventures Limited](https://softwareventures.co.uk/).
 
+We follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+specification.
 
 # Install
 
