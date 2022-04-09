@@ -15,6 +15,11 @@ const options: Options = {
             prerelease: true
         }
     ],
+    plugins: [
+        ["@semantic-release/commit-analyzer", {
+            preset: "conventionalcommits"
+        }]
+    ],
     releaseRules: [
         {type: "docs", release: "patch"},
         {type: "refactor", release: "patch"}
