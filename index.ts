@@ -18,7 +18,10 @@ const options: Options = {
     plugins: [
         ["@semantic-release/commit-analyzer", {
             preset: "conventionalcommits"
-        }]
+        }],
+        "@semantic-release/release-notes-generator",
+        "@semantic-release/npm",
+        "@semantic-release/github"
     ],
     releaseRules: [
         {type: "docs", release: "patch"},
