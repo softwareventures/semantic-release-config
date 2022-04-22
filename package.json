@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^4.6.3",
-    "tslib": "2.3.1"
+    "tslib": "2.4.0"
   },
   "devDependencies": {
     "@softwareventures/tsconfig": "5.1.1",
