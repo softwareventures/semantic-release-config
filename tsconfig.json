@@ -1,5 +1,5 @@
 {
-  "extends": "@softwareventures/tsconfig",
+  "extends": "@softwareventures/tsconfig/commonjs",
   "exclude": [
     "**/*.test.ts",
     "**/test.ts"
