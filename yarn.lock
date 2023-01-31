@@ -562,10 +562,10 @@
   resolved "https://registry.yarnpkg.com/@types/retry/-/retry-0.12.0.tgz#2b35eccfcee7d38cd72ad99232fbd58bffb3c84d"
   integrity sha512-wWKOClTTiizcZhXnPY4wikVAwmdYHp8q6DmC+EJUzAMsycb7HB32Kh9RN4+0gExjmPmZSAQjgURXIGATPegAvA==
 
-"@types/semantic-release@17.2.5":
-  version "17.2.5"
-  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-17.2.5.tgz#41f954df5cbe646413ea6cfdee9be240aa8493d7"
-  integrity sha512-gb8BA/EAawn72JWGspi0ildInntm4DGrV5Jkse5pfmP+XqU70sst2DGPbqpba/bFYljTiZkRvHVNH3Be49AisA==
+"@types/semantic-release@17.2.6":
+  version "17.2.6"
+  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-17.2.6.tgz#daaf5a406738a5301c792dda8ec8838d7d7551af"
+  integrity sha512-xKpas+3g3M3oDM1wqk+IADINiYyEzcUo3E2hXK2glLmPuz60piExGADCLHuL4rg2JAtvca/BjjFHPM66vjvTEQ==
   dependencies:
     "@types/node" "*"
 
