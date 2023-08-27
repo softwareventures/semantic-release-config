@@ -21,7 +21,7 @@
     "node": "^14 || ^16 || >=18"
   },
   "dependencies": {
-    "conventional-changelog-conventionalcommits": "^4.6.3 || ^5.0.0",
+    "conventional-changelog-conventionalcommits": "^4.6.3 || ^5.0.0 || ^7.0.0",
     "tslib": "2.6.2"
   },
   "devDependencies": {
