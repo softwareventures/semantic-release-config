@@ -614,7 +614,7 @@
   dependencies:
     "@types/node" "*"
 
-"@types/signale@^1.4.7":
+"@types/signale@1.4.7":
   version "1.4.7"
   resolved "https://registry.yarnpkg.com/@types/signale/-/signale-1.4.7.tgz#317846ca23e4eaff78601e2786ba3e2065cc859d"
   integrity sha512-nc0j37QupTT7OcYeH3gRE1ZfzUalEUsDKJsJ3IsJr0pjjFZTjtrX1Bsn6Kv56YXI/H9rNSwAkIPRxNlZI8GyQw==
