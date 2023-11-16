@@ -24,7 +24,8 @@
     "tslib": "2.6.2"
   },
   "peerDependencies": {
-    "conventional-changelog-conventionalcommits": "^4.6.3 || ^5.0.0"
+    "conventional-changelog-conventionalcommits": "^4.6.3 || ^5.0.0",
+    "semantic-release": "^17.0.7 || ^18.0.0 || ^19.0.0 || ^20.0.0"
   },
   "devDependencies": {
     "@softwareventures/tsconfig": "7.0.0",
