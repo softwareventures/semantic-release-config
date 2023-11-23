@@ -28,7 +28,7 @@
     "semantic-release": "^17.0.7 || ^18.0.0 || ^19.0.0 || ^20.0.0 || ^21.0.0 || ^22.0.0"
   },
   "devDependencies": {
-    "@softwareventures/tsconfig": "7.0.1",
+    "@softwareventures/tsconfig": "7.1.0",
     "@softwareventures/tslint-rules": "2.0.0",
     "@types/semantic-release": "20.0.6",
     "@types/signale": "1.4.7",

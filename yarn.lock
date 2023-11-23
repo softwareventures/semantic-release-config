@@ -542,10 +542,10 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/merge-streams/-/merge-streams-1.0.0.tgz#9cd84cc15bc865a5ca35fcaae198eb899f7b5c90"
   integrity sha512-rUV5WyJrJLoloD4NDN1V1+LDMDWOa4OTsT4yYJwQNpTU6FWxkxHpL7eu4w+DmiH8x/EAM1otkPE1+LaspIbplw==
 
-"@softwareventures/tsconfig@7.0.1":
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/@softwareventures/tsconfig/-/tsconfig-7.0.1.tgz#2d7efd1729be164e3af181cdf0c9ca69c5430788"
-  integrity sha512-cRvjG55GMjy0NKX7gvEqc+GR927HBrmcbVhjl1m/Ncavq3V5LClu6dVYzrfYIISIT37uwuIJ1lWFNsx8xQwqxg==
+"@softwareventures/tsconfig@7.1.0":
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/@softwareventures/tsconfig/-/tsconfig-7.1.0.tgz#abb596b3710c239d405d427f34dfde4b13c6fe61"
+  integrity sha512-kc0iHHVg+rMeknxK5Cq4/J53So/NAHa9iF8pMZjnybnow0Du/6D5VFeqqJ/mIh26tc6KDFzIlJ1rp3iy5eUvNA==
 
 "@softwareventures/tslint-rules@2.0.0":
   version "2.0.0"
