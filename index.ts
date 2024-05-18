@@ -16,6 +16,7 @@ const options: Options = {
         }
     ],
     plugins: [
+        "semantic-release-pinst",
         ["@semantic-release/commit-analyzer", {
             preset: "conventionalcommits"
         }],
