@@ -4171,10 +4171,10 @@ safe-regex-test@^1.0.3:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semantic-release-pinst@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/semantic-release-pinst/-/semantic-release-pinst-1.0.0.tgz#63d3c976ea748024be4dd2d2bb62231ee3557dd2"
-  integrity sha512-4zNb57YASFrDRKjsOrNgElUjmRzEwYy4k2EayMrL00MMJiJmEGMWFYESkcsqrJB93gcEYLqr9TI0Ch/jOXCdow==
+semantic-release-pinst@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/semantic-release-pinst/-/semantic-release-pinst-1.0.4.tgz#28a8a5202b84a99787deffe1ec88c38231595c7c"
+  integrity sha512-NybeniDvFfpsYM1pgKYt3Mt7kSRnLm8lAmRje9/z1zKQWcFqzUbLBYi/Dnhc/YcMd/M/R30Q3Dw5fEYlCcrioA==
   dependencies:
     tslib "^2.6.2"
 
