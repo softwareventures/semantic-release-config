@@ -30,7 +30,7 @@
     "semantic-release-pinst": "^1.0.0"
   },
   "devDependencies": {
-    "@softwareventures/tsconfig": "7.1.1",
+    "@softwareventures/tsconfig": "7.3.0",
     "@softwareventures/tslint-rules": "2.0.0",
     "@types/semantic-release": "20.0.6",
     "@types/signale": "1.4.7",
