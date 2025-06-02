@@ -650,9 +650,9 @@
   integrity sha512-w28IoSUCJpidD/TGviZwwMJckNESJZXFu7NBZ5YJ4mEUnNraUn9Pm8HSZm/jDF1pDWYKspWE7oVphigUPRakIQ==
 
 "@types/node@*":
-  version "22.15.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.21.tgz#196ef14fe20d87f7caf1e7b39832767f9a995b77"
-  integrity sha512-EV/37Td6c+MgKAbkcLG6vqZ2zEYHD7bvSrzqqs2RIhbA6w3x+Dqz8MZM3sP6kGTeLrdoOgKZe+Xja7tUB2DNkQ==
+  version "22.15.29"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.15.29.tgz#c75999124a8224a3f79dd8b6ccfb37d74098f678"
+  integrity sha512-LNdjOkUDlU1RZb8e1kOIUpN1qQUlzGkEtbVNo53vbrwDg5om6oduhm4SiUaPW5ASTXhAiP0jInWG8Qx9fVlOeQ==
   dependencies:
     undici-types "~6.21.0"
 
@@ -676,9 +676,9 @@
     "@types/node" "*"
 
 "@vercel/nft@^0.29.2":
-  version "0.29.3"
-  resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.29.3.tgz#3296ffe878824215b3fdfd20ad8f5cd32ff527fc"
-  integrity sha512-aVV0E6vJpuvImiMwU1/5QKkw2N96BRFE7mBYGS7FhXUoS6V7SarQ+8tuj33o7ofECz8JtHpmQ9JW+oVzOoB7MA==
+  version "0.29.4"
+  resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.29.4.tgz#e56b07d193776bcf67b31ac4da065ceb8e8d362e"
+  integrity sha512-6lLqMNX3TuycBPABycx7A9F1bHQR7kiQln6abjFbPrf5C/05qHM9M5E4PeTE59c7z8g6vHnx1Ioihb2AQl7BTA==
   dependencies:
     "@mapbox/node-pre-gyp" "^2.0.0"
     "@rollup/pluginutils" "^5.1.3"
@@ -1701,9 +1701,9 @@ fastq@^1.6.0:
     reusify "^1.0.4"
 
 fdir@^6.4.4:
-  version "6.4.4"
-  resolved "https://registry.yarnpkg.com/fdir/-/fdir-6.4.4.tgz#1cfcf86f875a883e19a8fab53622cfe992e8d2f9"
-  integrity sha512-1NZP+GK4GfuAv3PqKvxQRDMjdSRZjnkq7KfhlNrCNNlZ0ygQFpebfrnfnq/W7fpUnAv9aGWmY1zKx7FYL3gwhg==
+  version "6.4.5"
+  resolved "https://registry.yarnpkg.com/fdir/-/fdir-6.4.5.tgz#328e280f3a23699362f95f2e82acf978a0c0cb49"
+  integrity sha512-4BG7puHpVsIYxZUbiUE3RqGloLaSSwzYie5jvasC4LWuBWzZawynvYouhjbQKw2JuIGYdm0DzIxl8iVidKlUEw==
 
 figures@^2.0.0:
   version "2.0.0"
@@ -2074,9 +2074,9 @@ ignore-walk@^7.0.0:
     minimatch "^9.0.0"
 
 ignore@^7.0.3:
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/ignore/-/ignore-7.0.4.tgz#a12c70d0f2607c5bf508fb65a40c75f037d7a078"
-  integrity sha512-gJzzk+PQNznz8ysRrC0aOkBNVRBDtE1n53IqyqEf3PXrYwomFs5q4pGMizBMJF+ykh03insJ27hB8gSrD2Hn8A==
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/ignore/-/ignore-7.0.5.tgz#4cb5f6cd7d4c7ab0365738c7aea888baa6d7efd9"
+  integrity sha512-Hs59xBNfUIunMFgWAbGX5cq6893IbWg4KnrjbYwX3tx0ztorVgTDA6B2sxf8ejHJ4wz8BqGUMYlnzNBer5NvGg==
 
 import-fresh@^3.3.0:
   version "3.3.1"
