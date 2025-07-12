@@ -32,7 +32,7 @@
   "devDependencies": {
     "@softwareventures/tsconfig": "8.1.1",
     "@softwareventures/tslint-rules": "2.0.0",
-    "@types/semantic-release": "20.0.6",
+    "@types/semantic-release": "21.1.0",
     "@types/signale": "1.4.7",
     "ava": "6.4.0",
     "conventional-changelog-conventionalcommits": "8.0.0",
