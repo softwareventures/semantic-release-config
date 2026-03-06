@@ -14,7 +14,6 @@
     "fix": "tsc --noEmit && tslint --fix --project .",
     "lint": "tsc --noEmit && tslint --project .",
     "prepare": "tsc",
-    "semantic-release": "semantic-release",
     "test": "ava"
   },
   "engines": {
