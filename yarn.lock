@@ -1287,13 +1287,6 @@ conventional-changelog-angular@^8.0.0:
   dependencies:
     compare-func "^2.0.0"
 
-conventional-changelog-conventionalcommits@9.3.0:
-  version "9.3.0"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-conventionalcommits/-/conventional-changelog-conventionalcommits-9.3.0.tgz#763e66613f49c13567f6319987e9f45ae41eda24"
-  integrity sha512-kYFx6gAyjSIMwNtASkI3ZE99U1fuVDJr0yTYgVy+I2QG46zNZfl2her+0+eoviG82c5WQvW1jMt1eOQTeJLodA==
-  dependencies:
-    compare-func "^2.0.0"
-
 conventional-changelog-writer@^8.0.0:
   version "8.4.0"
   resolved "https://registry.yarnpkg.com/conventional-changelog-writer/-/conventional-changelog-writer-8.4.0.tgz#600bfb4c98ccf0a31baddf8a1305f229072faf1f"
@@ -3633,14 +3626,6 @@ safe-buffer@~5.2.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semantic-release-pinst@1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/semantic-release-pinst/-/semantic-release-pinst-1.1.0.tgz#99557aceaed608f0ee5f5bf361f97b29776dad18"
-  integrity sha512-2S4T1kcnsbUQ+T4d76oZtYmK0oybGug3f/+PGDcF9zZFseHJJjwnhtQx4jHhYZCjSbz1gFTAg+YXpfrvJa+A9g==
-  dependencies:
-    tslib "^2.6.2"
-    unknown "^0.2.6"
-
 semantic-release@25.0.3:
   version "25.0.3"
   resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-25.0.3.tgz#77c2a7bfdcc63125fa2dea062d2cee28662ce224"
@@ -4136,7 +4121,7 @@ tslib@1.9.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.9.0.tgz#e37a86fda8cbbaf23a057f473c9f4dc64e5fc2e8"
   integrity sha512-f/qGG2tUkrISBlQZEjEqoZ3B2+npJjIf04H1wuAv9iA8i04Icp+61KRXxFdha22670NJopsZCIjhC3SnjPRKrQ==
 
-tslib@2.8.1, "tslib@^1.9.3 || ^2.0.0 || ^2.1.0", tslib@^2.1.0, tslib@^2.6.2:
+tslib@2.8.1, "tslib@^1.9.3 || ^2.0.0 || ^2.1.0", tslib@^2.1.0:
   version "2.8.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.8.1.tgz#612efe4ed235d567e8aba5f2a5fab70280ade83f"
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
@@ -4309,11 +4294,6 @@ universalify@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/universalify/-/universalify-2.0.1.tgz#168efc2180964e6386d061e094df61afe239b18d"
   integrity sha512-gptHNQghINnc/vTGIk0SOFGFNXw7JVrlRUtConJRlvaw6DuX0wO5Jeko9sWrMBhh+PsYAZ7oXAiOnf/UKogyiw==
-
-unknown@^0.2.6:
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/unknown/-/unknown-0.2.6.tgz#89756ab99948ad7f5497a1e6758f48739e74194c"
-  integrity sha512-1awrWBF5IFiic4/JMwO/RJV7JkLLJWPS4K37DLAC/g5Ob8IGIfLBm5hRpMaMceCudpweQFY3NcUmmCBaqVDxRQ==
 
 url-join@^5.0.0:
   version "5.0.0"
