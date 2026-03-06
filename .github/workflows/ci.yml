@@ -59,7 +59,7 @@ jobs:
             @semantic-release/release-notes-generator@14.1.0 \
             @semantic-release/npm@13.1.5 \
             @semantic-release/github@12.0.6 \
-            @softwareventures/semantic-release-config@8.0.0 \
+            @softwareventures/semantic-release-config@9.0.0 \
             conventional-changelog-conventionalcommits@9.3.0 \
             semantic-release@25.0.3 \
             semantic-release-pinst@1.1.0
