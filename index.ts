@@ -1,4 +1,4 @@
-import {Options} from "semantic-release";
+import type {Options} from "semantic-release";
 
 const options: Options = {
     branches: [
