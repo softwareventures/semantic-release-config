@@ -4,14 +4,14 @@ env:
   CI: true
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   NPM_TOKEN: ${{secrets.NPM_TOKEN}}
-  DEPLOY_NODE_VERSION: 24.x
+  DEPLOY_NODE_VERSION: 25.x
 jobs:
   build-and-test:
     name: Build and Test
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [ 20.x, 22.x, 24.x ]
+        node-version: [ 20.x, 22.x, 24.x, 25.x ]
     steps:
       - name: Find yarn cache
         id: find-yarn-cache
