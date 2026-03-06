@@ -34,6 +34,7 @@
   "devDependencies": {
     "@softwareventures/eslint-config": "9.2.3",
     "@softwareventures/tsconfig": "8.1.1",
+    "@types/node": "^22.19.15",
     "@types/signale": "1.4.7",
     "@typescript-eslint/eslint-plugin": "8.56.1",
     "@typescript-eslint/parser": "8.56.1",
