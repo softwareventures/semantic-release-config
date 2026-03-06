@@ -38,6 +38,8 @@
     "@commitlint/config-conventional": "19.8.1",
     "@commitlint/cz-commitlint": "19.8.1",
     "@softwareventures/eslint-config": "9.2.3",
+    "@softwareventures/precise-commits": "4.0.23",
+    "@softwareventures/prettier-config": "4.0.0",
     "@softwareventures/tsconfig": "8.1.1",
     "@types/node": "^22.19.15",
     "@types/signale": "1.4.7",
@@ -54,6 +56,7 @@
     "eslint-plugin-sonarjs": "2.0.4",
     "husky": "9.1.7",
     "inquirer": "9.3.8",
+    "prettier": "3.8.1",
     "semantic-release": "25.0.3",
     "ts-node": "10.9.2",
     "typescript": "5.9.3"
@@ -62,6 +65,7 @@
     "root": true,
     "extends": "@softwareventures"
   },
+  "prettier": "@softwareventures/prettier-config",
   "config": {
     "commitizen": {
       "path": "@commitlint/cz-commitlint"
