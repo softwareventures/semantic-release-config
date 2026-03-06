@@ -1,5 +1,3 @@
 {
-  "extends": [
-    "@softwareventures:lib"
-  ]
+  "extends": ["github>softwareventures/renovate-config:lib"]
 }
