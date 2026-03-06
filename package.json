@@ -11,7 +11,9 @@
   "repository": "github:softwareventures/semantic-release-config",
   "license": "ISC",
   "scripts": {
+    "commit": "cz",
     "fix": "tsc --noEmit && eslint --fix .",
+    "postinstall": "husky",
     "lint": "tsc --noEmit && eslint .",
     "prepack": "tsc",
     "test": "ava"
@@ -32,6 +34,9 @@
     "semantic-release-pinst": "^1.1.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "19.8.1",
+    "@commitlint/config-conventional": "19.8.1",
+    "@commitlint/cz-commitlint": "19.8.1",
     "@softwareventures/eslint-config": "9.2.3",
     "@softwareventures/tsconfig": "8.1.1",
     "@types/node": "^22.19.15",
@@ -39,13 +44,16 @@
     "@typescript-eslint/eslint-plugin": "8.56.1",
     "@typescript-eslint/parser": "8.56.1",
     "ava": "7.0.0",
-    "cz-conventional-changelog": "3.3.0",
+    "commitizen": "4.3.1",
+    "conventional-changelog-conventionalcommits": "7.0.2",
     "eslint": "8.57.1",
     "eslint-config-prettier": "9.1.2",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-jsdoc": "50.8.0",
     "eslint-plugin-prefer-arrow": "1.2.3",
     "eslint-plugin-sonarjs": "2.0.4",
+    "husky": "9.1.7",
+    "inquirer": "9.3.8",
     "semantic-release": "25.0.3",
     "ts-node": "10.9.2",
     "typescript": "5.9.3"
@@ -56,7 +64,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "@commitlint/cz-commitlint"
     }
   },
   "ava": {
