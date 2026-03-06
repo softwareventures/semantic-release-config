@@ -29,9 +29,9 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: ${{matrix.node-version}}
-      - run: yarn
-      - run: yarn test
-      - run: yarn lint
+      - run: corepack yarn
+      - run: corepack yarn test
+      - run: corepack yarn lint
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
