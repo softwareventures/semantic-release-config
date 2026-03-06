@@ -1,6 +1,0 @@
-{
-  "extends": "@softwareventures/tslint-rules",
-  "rules": {
-    "no-implicit-dependencies": false
-  }
-}
