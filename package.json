@@ -26,7 +26,7 @@
   "peerDependencies": {
     "conventional-changelog-conventionalcommits": "^9.0.0",
     "pinst": ">= 2.1.6",
-    "semantic-release": "^24.0.0 || ^25.0.0",
+    "semantic-release": "^25.0.0",
     "semantic-release-pinst": "^1.0.0"
   },
   "devDependencies": {
