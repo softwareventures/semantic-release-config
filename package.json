@@ -54,7 +54,7 @@
     "eslint-plugin-prefer-arrow": "1.2.3",
     "eslint-plugin-sonarjs": "2.0.4",
     "husky": "9.1.7",
-    "inquirer": "9.3.8",
+    "inquirer": "13.3.2",
     "prettier": "3.8.1",
     "semantic-release": "25.0.3",
     "ts-node": "10.9.2",
