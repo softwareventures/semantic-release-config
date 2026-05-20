@@ -2593,7 +2593,7 @@ __metadata:
     "@softwareventures/precise-commits": "npm:4.0.26"
     "@softwareventures/prettier-config": "npm:4.0.0"
     "@softwareventures/tsconfig": "npm:8.1.2"
-    "@types/node": "npm:22.19.18"
+    "@types/node": "npm:22.19.19"
     "@types/signale": "npm:1.4.7"
     "@typescript-eslint/eslint-plugin": "npm:8.59.2"
     "@typescript-eslint/parser": "npm:8.59.2"
@@ -2700,12 +2700,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:22.19.18":
-  version: 22.19.18
-  resolution: "@types/node@npm:22.19.18"
+"@types/node@npm:22.19.19":
+  version: 22.19.19
+  resolution: "@types/node@npm:22.19.19"
   dependencies:
     undici-types: "npm:~6.21.0"
-  checksum: 10c0/0f425ca7f4c0ec4bbf9c1e5f9fdb9943f45fe534b9f6915a08bae44fe6f09873d9b8527d800e4b7d9f3899d74249c9c2c2be4e0dcca145014610f5eac9058316
+  checksum: 10c0/402e0f088c94cabda3cd721546bd8e4e75e098e0b342f6e03b90ca1e19c28986f9650112c64fcfd09fc8cebc0f8b20291a513153e90489331cf666e1e5503e16
   languageName: node
   linkType: hard
 
