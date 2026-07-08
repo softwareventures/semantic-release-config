@@ -15,7 +15,7 @@ jobs:
         node-version: [ 22.x, 24.x, 25.x ]
     steps:
       - name: git checkout
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
       - name: yarn cache
         uses: actions/cache@v5
         with:
@@ -42,7 +42,7 @@ jobs:
       GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
     steps:
       - name: git checkout
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
       - name: yarn cache
         uses: actions/cache@v5
         with:
